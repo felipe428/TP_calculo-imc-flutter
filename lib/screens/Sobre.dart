@@ -13,7 +13,7 @@ class Sobre extends StatelessWidget {
         padding: const EdgeInsets.all(3.0),
         alignment: Alignment.center,
         child:
-            const Text("Versão 1.0 - Desenvolivda por Felipe Santos da Silva"),
+            const Text("Versão 1.0 - Desenvolvida por Felipe Santos da Silva"),
       ),
     );
   }
